@@ -12,8 +12,9 @@ $ pip2 install lolcat
 
 $ pkg install git
 
-$ git clone https://github.com/Killarboy/
+$ git clone https://github.com/Killarboy/Birthday 
 
-$ cd 
+$ cd Birthday 
 
-$ bash 
+$ bash Birthday.sh 
+
